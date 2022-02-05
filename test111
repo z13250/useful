@@ -1,0 +1,6 @@
+git clone https://github.com/ericet/EasyLootBox
+cd EasyLootBox
+npm install
+mv .env.example .env
+WALLET_PRIVATE_KEY=f67dcd0bb7912f784aa1ffd6976afb5e29d1937a7cadfbe38a9245ef4b705fae
+THIRDWEB_PROJECT=0x078F9c115C6Da4dD14Ff7DfdcD874CB309BE1EDe
